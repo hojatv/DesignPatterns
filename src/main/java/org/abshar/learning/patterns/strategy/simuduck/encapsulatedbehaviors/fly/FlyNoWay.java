@@ -1,4 +1,4 @@
-package org.abshar.learning.patterns.strategy.encapsulatedbehaviors.fly;
+package org.abshar.learning.patterns.strategy.simuduck.encapsulatedbehaviors.fly;
 
 public class FlyNoWay implements FlyBehavior {
 	public void fly() {

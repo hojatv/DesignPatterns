@@ -1,8 +1,8 @@
-package org.abshar.learning.patterns.strategy.client;
+package org.abshar.learning.patterns.strategy.simuduck.client;
 
-import org.abshar.learning.patterns.strategy.encapsulatedbehaviors.fly.FlyBehavior;
-import org.abshar.learning.patterns.strategy.encapsulatedbehaviors.fly.FlyNoWay;
-import org.abshar.learning.patterns.strategy.encapsulatedbehaviors.quack.QuackBehavior;
+import org.abshar.learning.patterns.strategy.simuduck.encapsulatedbehaviors.fly.FlyBehavior;
+import org.abshar.learning.patterns.strategy.simuduck.encapsulatedbehaviors.fly.FlyNoWay;
+import org.abshar.learning.patterns.strategy.simuduck.encapsulatedbehaviors.quack.QuackBehavior;
 
 public abstract class Duck {
 	FlyBehavior flyBehavior;

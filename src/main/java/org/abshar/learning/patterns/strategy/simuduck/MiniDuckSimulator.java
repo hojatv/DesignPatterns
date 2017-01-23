@@ -1,10 +1,10 @@
-package org.abshar.learning.patterns.strategy;
+package org.abshar.learning.patterns.strategy.simuduck;
 
-import org.abshar.learning.patterns.strategy.client.Duck;
-import org.abshar.learning.patterns.strategy.client.MallardDuck;
-import org.abshar.learning.patterns.strategy.client.ModelDuck;
-import org.abshar.learning.patterns.strategy.client.RubberDuck;
-import org.abshar.learning.patterns.strategy.encapsulatedbehaviors.fly.FlyRocketPowered;
+import org.abshar.learning.patterns.strategy.simuduck.client.Duck;
+import org.abshar.learning.patterns.strategy.simuduck.client.MallardDuck;
+import org.abshar.learning.patterns.strategy.simuduck.client.ModelDuck;
+import org.abshar.learning.patterns.strategy.simuduck.client.RubberDuck;
+import org.abshar.learning.patterns.strategy.simuduck.encapsulatedbehaviors.fly.FlyRocketPowered;
 
 public class MiniDuckSimulator {
  
