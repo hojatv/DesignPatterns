@@ -15,7 +15,6 @@ public class MiniDuckSimulator {
 		Duck.DecoyDuck decoy = new Duck.DecoyDuck();
  
 		ModelDuck model = new ModelDuck();
-
 		mallard.performQuack();
 		rubberDuckie.performQuack();
 		decoy.performQuack();
