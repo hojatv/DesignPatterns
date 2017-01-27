@@ -10,7 +10,7 @@ public abstract class Duck {
  
 	public Duck() {
 	}
- 
+
 	public void setFlyBehavior (FlyBehavior fb) {
 		flyBehavior = fb;
 	}
